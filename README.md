@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VimalVikash-Sigamani
+- 👋 Hi, I’m Vimal Vikash Sigamani
 - 👀 I’m interested in leveraging data to derive insights and solve complex problems.
 - 🌱 I’m currently learning advanced statistical techniques to enhance my analytical skills.
 - 💞️ I’m looking to collaborate on data analysis projects aimed at solving real-world problems and optimizing business processes.
